@@ -4,11 +4,12 @@ This repository demonstrates **hypothesis-driven statistical analysis and A/B te
 
 ### Contents
 
-#### 1️⃣ Hypothesis Testing
+#### 1. Hypothesis Testing
 
 Introduces hypothesis formulation and statistical testing using real datasets. The analysis emphasizes understanding group differences, test statistics, and p-value interpretation within a research-oriented framework.
+"Simulated Dataset"
 
-#### 2️⃣ A/B Testing Analysis
+#### 2. A/B Testing Analysis
 
 Implements an end-to-end A/B testing workflow, including control vs treatment comparison and pretest–posttest structure. The project reflects real experimental settings where datasets may differ in size and structure.
 
